@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void dfs(int cur, int compId, unordered_map<int, vector<int>>& adj, vector<int>& component) {
+    /*void dfs(int cur, int compId, unordered_map<int, vector<int>>& adj, vector<int>& component) {
         component[cur] = compId;
         for (int& ngbr : adj[cur]) {
             if (component[ngbr] == -1) {
@@ -8,9 +8,9 @@ public:
             }
         }
     }
-
+    */
     vector<bool> pathExistenceQueries(int n, vector<int>& nums, int maxDiff, vector<vector<int>>& queries) {
-        unordered_map<int, vector<int>> adj;
+        /*unordered_map<int, vector<int>> adj;
         for (int i = 0; i + 1 < n; i++) {
             if (nums[i + 1] - nums[i] <= maxDiff) {
                 adj[i].push_back(i + 1);
@@ -31,6 +31,25 @@ public:
         vector<bool> result;
         for (auto& query : queries) {
             result.push_back(component[query[0]] == component[query[1]]);
+        }
+        return result;
+        */
+        int compId=0;
+        vector<int>component(n,-1);
+        component[0]=0;
+        for(int i=1;i<n;i++){
+            if (nums[i]-nums[i-1]>maxDiff){
+                compId++;
+            }
+            component[i]=compId;
+        }
+
+
+        vector<bool>result;
+        for (vector<int> &query :queries){
+            int u=query[0];
+            int v=query[1];
+            result.push_back(component[u]==component[v]);
         }
         return result;
     }
