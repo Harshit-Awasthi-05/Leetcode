@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    void dfs(int u,unordered_map<int,vector<int>> &adj, vector<bool> &visited, int &v, int &e){
+    /*void dfs(int u,unordered_map<int,vector<int>> &adj, vector<bool> &visited, int &v, int &e){
         visited[u]=true;
         v++;
         e+=adj[u].size();
@@ -10,6 +10,29 @@ public:
                 dfs(it,adj,visited,v,e);
             }
         }
+    }
+    */
+
+    void bfs(int u,unordered_map<int,vector<int>> &adj, vector<bool> &visited, int &v, int &e){
+        queue<int>q;
+        q.push(u);
+        visited[u]=true;
+        
+        while(!q.empty()){
+            int curr=q.front();
+            q.pop();
+            v++;
+            e+=adj[curr].size();
+
+            for(int &ngbr : adj[curr]){
+                if (!visited[ngbr]){
+                    visited[ngbr]=true;
+                    q.push(ngbr);
+                }
+            }
+
+        }
+
     }
 
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
@@ -30,7 +53,8 @@ public:
                 int v = 0;
                 int e = 0;
 
-                dfs(i, adj, visited, v, e);
+                //dfs(i, adj, visited, v, e);
+                bfs(i,adj,visited,v,e);
 
                 if(e == v*(v-1))
                     ans++;
