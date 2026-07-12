@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
