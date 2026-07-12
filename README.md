@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1331-rank-transform-of-an-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -29,4 +30,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
