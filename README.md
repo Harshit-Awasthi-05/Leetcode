@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
