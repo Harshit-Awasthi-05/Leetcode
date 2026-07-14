@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1331-rank-transform-of-an-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Binary Indexed Tree
 |  |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
