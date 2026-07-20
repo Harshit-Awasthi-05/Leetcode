@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1260-shift-2d-grid](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
