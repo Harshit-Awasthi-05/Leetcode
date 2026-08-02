@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0486-predict-the-winner](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Geometry
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -126,4 +129,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
