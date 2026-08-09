@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0486-predict-the-winner](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1406-stone-game-iii](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1140-stone-game-ii](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1140-stone-game-ii) |
 ## String
 |  |
 | ------- |
@@ -141,14 +145,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1406-stone-game-iii) |
 ## Bit Manipulation
 |  |
