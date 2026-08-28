@@ -1,5 +1,12 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        s_t="".join(sorted(s))
-        t_t="".join(sorted(t))
-        return s_t==t_t
+        if len(s) != len(t):
+            return False
+        count=[0]*26
+        for ch in s:
+            count[ord(ch)-ord('a')]+=1
+        
+        for ch in t:
+            count[ord(ch)-ord('a')]-=1
+        
+        return count == [0]*26
