@@ -202,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
