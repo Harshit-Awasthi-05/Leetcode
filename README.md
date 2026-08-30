@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1140-stone-game-ii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 ## String
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0136-single-number) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 ## Quicksort
 |  |
 | ------- |
