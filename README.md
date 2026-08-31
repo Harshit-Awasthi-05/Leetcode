@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0486-predict-the-winner](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0486-predict-the-winner) |
+| [0713-subarray-product-less-than-k](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0713-subarray-product-less-than-k](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1140-stone-game-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 ## String
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -221,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1683-invalid-tweets) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
