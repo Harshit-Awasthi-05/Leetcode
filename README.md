@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bracket Sequences
 |  |
 | ------- |
