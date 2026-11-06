@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2747-count-zero-request-servers](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2747-count-zero-request-servers](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2747-count-zero-request-servers](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
