@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -190,11 +191,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Counting Sort
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harshit-Awasthi-05/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Two Pointers
 |  |
